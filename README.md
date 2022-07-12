@@ -16,6 +16,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 https://runninfridge.github.io/firstchallenge-hw/
-![my screenshot](./assets/screenshot1.png)
-![my screenshot](./assets/screenshot2.png)
-![my screenshot](./assets/screenshot3.png)
+![my screenshot](./assets/images/screenshot1.png)
+![my screenshot](./assets/images/screenshot2.png)
+![my screenshot](./assets/images/screenshot3.png)
